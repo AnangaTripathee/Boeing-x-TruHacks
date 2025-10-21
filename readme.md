@@ -117,8 +117,3 @@ Please make sure to follow our coding standards and include appropriate tests.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Team
-* Aavash
-* Pranay
-* Ali
-"# -WasteNot" 
